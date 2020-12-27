@@ -1,0 +1,49 @@
+[08-Oct-2020 11:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/ar1productions.com/admin/add-event-detail.php on line 55
+[08-Oct-2020 11:39:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/ar1productions.com/admin/add-event-detail.php on line 55
+[08-Oct-2020 11:41:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/ar1productions.com/admin/add-event-detail.php on line 55
+[08-Oct-2020 11:49:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/ar1productions.com/admin/add-info.php on line 7
+[08-Oct-2020 11:56:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/ibzewsuq/public_html/ar1productions.com/admin/insert.php on line 14
+[12-Oct-2020 06:19:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/db.php on line 2
+[12-Oct-2020 06:19:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 11
+[12-Oct-2020 06:19:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 12
+[12-Oct-2020 06:19:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 13
+[12-Oct-2020 06:20:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/db.php on line 2
+[12-Oct-2020 06:20:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 11
+[12-Oct-2020 06:20:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 12
+[12-Oct-2020 06:20:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/loginquery.php on line 13
+[14-Oct-2020 09:52:44 UTC] PHP Warning:  unlink(image_gallery/art-v2-8.jpg): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 09:52:52 UTC] PHP Warning:  unlink(image_gallery/art-v1-1.jpg): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 09:52:54 UTC] PHP Warning:  unlink(image_gallery/art-v1-5.jpg): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 10:42:05 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 10:45:13 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 10:45:15 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 11:33:50 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[14-Oct-2020 12:22:00 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/add_image.php on line 69
+[14-Oct-2020 12:22:10 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/add_image.php on line 69
+[14-Oct-2020 12:29:15 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/add_image.php on line 69
+[14-Oct-2020 12:30:16 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/add_image.php on line 69
+[14-Oct-2020 12:32:19 UTC] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/add_image.php on line 71
+[15-Oct-2020 06:19:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 62
+[15-Oct-2020 06:21:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 21
+[15-Oct-2020 06:21:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 62
+[15-Oct-2020 06:21:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 21
+[15-Oct-2020 06:21:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 62
+[15-Oct-2020 06:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 62
+[15-Oct-2020 06:30:57 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 06:31:12 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 06:38:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 10
+[15-Oct-2020 06:38:00 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 06:40:22 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 06:44:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all_image.php on line 60
+[15-Oct-2020 06:56:50 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/all-category.php on line 119
+[15-Oct-2020 06:58:17 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 06:58:22 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 07:14:17 UTC] PHP Warning:  unlink(image_gallery/inbox4.png): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 07:22:49 UTC] PHP Warning:  unlink(image_gallery/IMG_20200910_082246.jpg): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 07:49:43 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[15-Oct-2020 07:53:53 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[16-Oct-2020 09:25:28 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[16-Oct-2020 11:03:22 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[19-Oct-2020 11:24:01 UTC] PHP Warning:  unlink(image_gallery/02.jpg): No such file or directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[03-Nov-2020 11:47:02 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
+[04-Nov-2020 05:15:13 UTC] PHP Warning:  unlink(image_gallery/): Is a directory in /home/ibzewsuq/public_html/wallmaxxhpl.com/admin/delete_image.php on line 12
